@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: specialFlowers
+  title: Special Flowers
+  author: _Play_
+  description: "Guide on how to get 1st place in BBT2025:\r\nStep 1:\n\nManual can
+    be found on the Repository of Manual Pages: https://ktane.timwi.de/\n\nDeveloped
+    by _Play_.\r\nSong used: \rtomatoism - Someone Special"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: e688a0d117af81c4aa9447c3d0353588, type: 3}

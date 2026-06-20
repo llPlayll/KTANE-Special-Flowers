@@ -1,0 +1,10 @@
+{
+  "name": "specialFlowers-Editor",
+  "references": [
+    "specialFlowers"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
