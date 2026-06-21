@@ -14,9 +14,20 @@ MonoBehaviour:
   id: specialFlowers
   title: Special Flowers
   author: _Play_
-  description: "Guide on how to get 1st place in BBT2025:\r\nStep 1:\n\nManual can
-    be found on the Repository of Manual Pages: https://ktane.timwi.de/\n\nDeveloped
-    by _Play_.\r\nSong used: \rtomatoism - Someone Special"
-  version: 1.0
+  description: "[i]Guide on how to get first place in BBT2025:\r\nStep 1:[/i]\r\n[hr][/hr][h2]Module's
+    manual can be found on the Repository of Manual Pages: https://ktane.timwi.de/[/h2]\r\n[hr][/hr]Developed
+    by _Play_.\r\nSong used: tomatoism - Someone Special\r\n[hr][/hr][h2]On the Subject
+    of Mod Settings[/h2]\r\nThis module has two mod settings. Use the \"Mod Settings\"
+    app on the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=801400247]Mod
+    Selector[/url], added by the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1366808675]Tweaks[/url]
+    mod to change them, under the \"Special Flowers Settings\" tab:\r\n[list]\r\n[*]
+    Short Solve Sound - Makes the module use a shorter version of its solve sound.\r\n[*]
+    Non-Lenient Sequence Generation - The module usually generates flower sequences
+    so that in every group, every flower after the first appears more-or-less near
+    the previous flower (to avoid situations where the defuser needs to drag their
+    cursor from one end of the module to the other in just 0.2 seconds). Enabling
+    this setting makes the module instead generate sequences in a completely random
+    way.\r\n[/list]"
+  version: 1.02
   outputFolder: build
   previewImage: {fileID: 2800000, guid: e688a0d117af81c4aa9447c3d0353588, type: 3}
